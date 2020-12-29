@@ -1,5 +1,5 @@
 {
-    "name": "lamoda/lamoda-b2b-platform.php-sdk",
+    "name": "belaryc/lamoda-b2b-platform.php-sdk",
     "type": "library",
     "description": "SDK for interacting with Lamoda B2B Platform",
     "license": "Apache-2.0",
@@ -15,7 +15,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "monolog/monolog": "1.*",
+        "monolog/monolog": "^2.0",
         "guzzlehttp/guzzle": "~6.0",
         "lamoda/lamoda-b2b-platform.dto": "~1.0",
         "doctrine/orm": "~2.2,>=2.2.3"
